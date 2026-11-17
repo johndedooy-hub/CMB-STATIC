@@ -1,0 +1,16 @@
+/data/config.json
+/data/region.json
+/data/admin-auth.json
+/data/stream-presets.user.json
+/data/install-secret.php
+/data/INSTALLATIECODE.txt
+/data/config-original-1211.json
+/data/cache/
+/uploads/*
+!/uploads/.htaccess
+!/uploads/.gitkeep
+.env
+.env.*
+*.log
+*.bak
+*.zip
