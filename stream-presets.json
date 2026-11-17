@@ -1,0 +1,110 @@
+{
+    "DD Fresh Turkye 1 (43)": {
+        "streamUrl": "https://host10.onlineradyotv.net:7048/stream/43",
+        "fallbackUrl": "https://host10.onlineradyotv.net:7048/stream/43/",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://host10.onlineradyotv.net:7048/stats?json=1&sid=43",
+        "coverApi": "itunes"
+    },
+    "Focus Mexi (42)": {
+        "streamUrl": "https://stream9.mexiserver.com:7048/stream/42/",
+        "fallbackUrl": "https://stream9.mexiserver.com:7048/stream/42/",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://stream9.mexiserver.com:7048/stats?json=1&sid=42",
+        "coverApi": "itunes"
+    },
+    "Focus Hostrix (4433)": {
+        "streamUrl": "https://radio.hostrix.biz/radio/4433/stream/",
+        "fallbackUrl": "https://radio.hostrix.biz:4433/stream",
+        "apiBackupUrl": "https://radio.hostrix.biz/cp/api/nowplaying/4433",
+        "jsSrc": "https://radio.hostrix.biz/cp/widgets.js",
+        "jsPort": "4433",
+        "statsJsonUrl": "https://radio.hostrix.biz/cp/api/nowplaying/4433",
+        "coverApi": "itunes"
+    },
+    "Aurora Epic Ice 1 (aurora)": {
+        "streamUrl": "https://carol.epichosts.co.uk/proxy/chazzo/aurora",
+        "fallbackUrl": "https://carol.epichosts.co.uk:2199/tunein/chazzo-aurora.mp3",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://carol.epichosts.co.uk:2199/rpc/chazzo/streaminfo.get?mount=/aurora",
+        "coverApi": "itunes"
+    },
+    "DD one Turkye Radyo (stream)": {
+        "streamUrl": "https://host10.onlineradyotv.net:7048/stream",
+        "fallbackUrl": "https://host10.onlineradyotv.net:7048/stream/",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://host10.onlineradyotv.net:7048/stats?json=1&sid=1",
+        "coverApi": "itunes"
+    },
+    "Aurora Turkye Radyo (2)": {
+        "streamUrl": "https://host10.onlineradyotv.net:7048/stream/2",
+        "fallbackUrl": "https://host10.onlineradyotv.net:7048/stream/2/",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://host10.onlineradyotv.net:7048/stats?json=1&sid=2",
+        "coverApi": "itunes"
+    },
+    "DD Fresh Turkye 2 (43)": {
+        "streamUrl": "https://host10.onlineradyotv.net:7048/stream/43",
+        "fallbackUrl": "https://host10.onlineradyotv.net:7048/stream/43/",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://host10.onlineradyotv.net:7048/stats?json=1&sid=43",
+        "coverApi": "itunes"
+    },
+    "DD One Epichosts Ice (stream)": {
+        "streamUrl": "https://carol.epichosts.co.uk/proxy/chazzo/stream",
+        "fallbackUrl": "https://carol.epichosts.co.uk:8520/tunein/chazzo.mp3",
+        "apiBackupUrl": "https://carol.epichosts.co.uk:2199/rpc/chazzo/streaminfo.get",
+        "jsSrc": "https://carol.epichosts.co.uk:2199/system/player.js",
+        "jsPort": "/stream",
+        "statsJsonUrl": "",
+        "coverApi": "itunes"
+    },
+    "DD Duran Mexi (41)": {
+        "streamUrl": "https://stream9.mexiserver.com:7048/stream/41/",
+        "fallbackUrl": "https://stream9.mexiserver.com:7048/stream/41/",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://stream9.mexiserver.com:7048/stats?json=1&sid=41",
+        "coverApi": "itunes"
+    },
+    "DD Duran Doscast (85)": {
+        "streamUrl": "https://fire.doscast.com:8052/stream/85/",
+        "fallbackUrl": "https://fire.doscast.com:8052/stream/85/",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://fire.doscast.com:8052/stats?json=1&sid=85",
+        "coverApi": "itunes"
+    },
+    "DD Fresh Epichosts Ice (dd-fresh)": {
+        "streamUrl": "https://carol.epichosts.co.uk/proxy/chazzo/dd-fresh",
+        "fallbackUrl": "https://carol.epichosts.co.uk:2199/tunein/chazzo-dd-fresh.mp3",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://carol.epichosts.co.uk:2199/rpc/chazzo/streaminfo.get?mount=/dd-fresh",
+        "coverApi": "itunes"
+    },
+    "Aurora Epic Ice 2 (aurora)": {
+        "streamUrl": "https://carol.epichosts.co.uk/proxy/chazzo/aurora",
+        "fallbackUrl": "https://carol.epichosts.co.uk:2199/tunein/chazzo-aurora.mp3",
+        "apiBackupUrl": "",
+        "jsSrc": "",
+        "jsPort": "",
+        "statsJsonUrl": "https://carol.epichosts.co.uk:2199/rpc/chazzo/streaminfo.get?mount=/aurora",
+        "coverApi": "itunes"
+    }
+}
