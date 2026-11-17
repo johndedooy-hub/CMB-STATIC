@@ -1,0 +1,76 @@
+{
+  "intro": "Dit speelt er in de regio",
+  "outro": "Heb je een tip? Mail de studio.",
+  "items": [
+    {
+      "kop": "",
+      "text": "",
+      "media": "",
+      "blur": 0,
+      "darken": 35,
+      "slide": false,
+      "show": false
+    },
+    {
+      "kop": "",
+      "text": "",
+      "media": "",
+      "blur": 0,
+      "darken": 35,
+      "slide": false,
+      "show": false
+    },
+    {
+      "kop": "",
+      "text": "",
+      "media": "",
+      "blur": 0,
+      "darken": 35,
+      "slide": false,
+      "show": false
+    },
+    {
+      "kop": "",
+      "text": "",
+      "media": "",
+      "blur": 0,
+      "darken": 35,
+      "slide": false,
+      "show": false
+    },
+    {
+      "kop": "",
+      "text": "",
+      "media": "",
+      "blur": 0,
+      "darken": 35,
+      "slide": false,
+      "show": false
+    },
+    {
+      "kop": "",
+      "text": "",
+      "media": "",
+      "blur": 0,
+      "darken": 35,
+      "slide": false,
+      "show": false
+    }
+  ],
+  "sec": 12,
+  "darken": 35,
+  "media": "",
+  "style_kop": {
+    "font": "system-ui, -apple-system, Segoe UI, sans-serif",
+    "size": 21,
+    "color": "#62d8cc",
+    "shadow": "#000000"
+  },
+  "style_body": {
+    "font": "system-ui, -apple-system, Segoe UI, sans-serif",
+    "size": 14,
+    "color": "#ffffff",
+    "shadow": "#000000"
+  },
+  "updated": 0
+}

@@ -1,0 +1,308 @@
+{
+  "theme": {
+    "bg_color": "#070b10",
+    "card_color": "#141c25",
+    "accent_color": "#d7b16e",
+    "accent_alt": "#c9d0d6",
+    "text_color": "#f3f3ef",
+    "muted_color": "#b0b7be",
+    "nav_color": "#0c151e",
+    "font_family": "system-ui, -apple-system, Segoe UI, sans-serif",
+    "base_font_size": 16,
+    "bg_video": "uploads/media_6af513cb19ab0.mp4",
+    "bg_image": "assets/img/studio-ambient.webp",
+    "bg_mode": "image",
+    "bg_opacity": 42,
+    "border_radius": 5,
+    "max_width": 1440,
+    "glass": 78,
+    "motion": "subtle"
+  },
+  "radio": {
+    "station_name": "Focus Eighties",
+    "eyebrow": "LUXE RADIO • ONLINE",
+    "logo": "uploads/media_6af513cb1a19b.png",
+    "stream_url": "https://icecast.omroep.nl/radio5-bb-mp3",
+    "backup_stream_url": "",
+    "metadata_url": "",
+    "backup_metadata_url": "",
+    "cover": "",
+    "current_show": "80s Music Keeps You Young",
+    "default_artist": "ON AIR",
+    "default_title": "80s Music Keeps You Young",
+    "stream_label": "LIVE RADIO",
+    "volume": 75,
+    "failover": true,
+    "stream_recheck_sec": 60
+  },
+  "topbar": {
+    "weather_city": "Amsterdam",
+    "weather_country": "NL",
+    "weather_mode": "auto",
+    "weather_temp": "18°C",
+    "weather_animation": true,
+    "weather_accent": "#8cdff4",
+    "weather_opacity": 65,
+    "time_seconds": false,
+    "whatsapp": "https://wa.me/31612345678",
+    "verkeer_url": "https://www.anwb.nl/verkeer",
+    "ov_url": "https://9292.nl"
+  },
+  "layout": {
+    "menu_title": "NAVIGATIE",
+    "slide_interval": 8,
+    "slide_overlay": 53,
+    "slide_height": 336,
+    "tile_columns": 4,
+    "welcome_visible": true,
+    "region_visible": true,
+    "region_heading": "Regioagenda",
+    "ticker_visible": true
+  },
+  "menu": [
+    {
+      "label": "HOME",
+      "url": "#home",
+      "active": true
+    },
+    {
+      "label": "NIEUWS",
+      "url": "#nieuws",
+      "active": false
+    },
+    {
+      "label": "WEER",
+      "url": "#weer",
+      "active": false
+    },
+    {
+      "label": "REGIOAGENDA",
+      "url": "#regio",
+      "active": false
+    },
+    {
+      "label": "VERKEER",
+      "url": "#verkeer",
+      "active": false
+    },
+    {
+      "label": "EXTRA & CONTACT",
+      "url": "#contact",
+      "active": false
+    }
+  ],
+  "slides": [
+    {
+      "title": "POPULAR HITS",
+      "subtitle": "24/7 Non-stop 80s Classics",
+      "image": "uploads/slide_6af5141a1a0db.jpg",
+      "caption_mode": "overlay",
+      "title_color": "#ffffff",
+      "subtitle_color": "#dceef2",
+      "caption_bg": "#112934",
+      "title_size": 36
+    },
+    {
+      "title": "LIVE & 24/7 NON STOP",
+      "subtitle": "Luister mee en app direct met de DJ",
+      "image": "uploads/slide_6af5141a1a44e.jpg",
+      "caption_mode": "overlay",
+      "title_color": "#ffffff",
+      "subtitle_color": "#dceef2",
+      "caption_bg": "#112934",
+      "title_size": 36
+    }
+  ],
+  "tiles": [
+    {
+      "title": "Tiffany M Relaxation",
+      "tag": "LIVE SHOW",
+      "subtitle": "De relaxte sounds",
+      "image": "",
+      "url": "",
+      "bg_color": "#174d4b",
+      "tag_bg": "#167b69",
+      "tag_color": "#ffffff",
+      "title_color": "#ffffff",
+      "subtitle_color": "#c7e2e0"
+    },
+    {
+      "title": "Weekend Mix",
+      "tag": "SPECIAL",
+      "subtitle": "Een heerlijke weekendmix",
+      "image": "",
+      "url": "",
+      "bg_color": "#443029",
+      "tag_bg": "#b47035",
+      "tag_color": "#ffffff",
+      "title_color": "#ffffff",
+      "subtitle_color": "#c7e2e0"
+    },
+    {
+      "title": "Deltadance One",
+      "tag": "KANAAL 2",
+      "subtitle": "Non-stop dance",
+      "image": "",
+      "url": "",
+      "bg_color": "#28365a",
+      "tag_bg": "#536bbd",
+      "tag_color": "#ffffff",
+      "title_color": "#ffffff",
+      "subtitle_color": "#c7e2e0"
+    },
+    {
+      "title": "Deltadance Duran",
+      "tag": "KANAAL 3",
+      "subtitle": "Classics voor elke dag",
+      "image": "",
+      "url": "",
+      "bg_color": "#274b37",
+      "tag_bg": "#357857",
+      "tag_color": "#ffffff",
+      "title_color": "#ffffff",
+      "subtitle_color": "#c7e2e0"
+    }
+  ],
+  "welcome": {
+    "heading": "Welkom bij Focus Eighties",
+    "text": "Wij brengen muziek, regio-info en studiobelevenis in één compacte pagina. Open nieuws, weer, regio, verkeer en extra via het menu zonder dat de muziek stopt.",
+    "eyebrow": "DE STUDIO",
+    "button_text": "Contact met de studio",
+    "button_url": "#contact"
+  },
+  "ticker": {
+    "enabled": true,
+    "mode": "marquee",
+    "speed": 60,
+    "color": "#f3eee4",
+    "bg_color": "#07121d",
+    "font_size": 13,
+    "items": [
+      {
+        "text": "Welkom bij Focus Eighties • luxe webplayer • nieuws • weer • regio • verkeer",
+        "url": ""
+      },
+      {
+        "text": "Menu opent als matglas-paneel over de slides • de muziek blijft gewoon doorspelen",
+        "url": ""
+      }
+    ]
+  },
+  "pl": {
+    "email": "studio@focusfantastique.nl",
+    "title": "Meer van de studio",
+    "privacy": "Wij respecteren je privacy. Heb je vragen? Mail ons op het onderstaande adres.",
+    "blocks": [
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      },
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      },
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      },
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      },
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      },
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      },
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      },
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      },
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      },
+      {
+        "img": "",
+        "url": "",
+        "text": ""
+      }
+    ]
+  },
+  "region": {
+    "heading": "Regioagenda",
+    "intro": "Dit speelt er in de regio",
+    "outro": "Heb je een tip? Mail de studio.",
+    "show_slides": false,
+    "items": [
+      {
+        "title": "",
+        "text": "",
+        "image": "",
+        "show": false,
+        "slide": false
+      },
+      {
+        "title": "",
+        "text": "",
+        "image": "",
+        "show": false,
+        "slide": false
+      },
+      {
+        "title": "",
+        "text": "",
+        "image": "",
+        "show": false,
+        "slide": false
+      },
+      {
+        "title": "",
+        "text": "",
+        "image": "",
+        "show": false,
+        "slide": false
+      },
+      {
+        "title": "",
+        "text": "",
+        "image": "",
+        "show": false,
+        "slide": false
+      },
+      {
+        "title": "",
+        "text": "",
+        "image": "",
+        "show": false,
+        "slide": false
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact met de studio",
+    "text": "Een verzoekje, tip of bericht? Laat van je horen."
+  },
+  "labels": {
+    "hero": "IN DE STUDIO",
+    "hero_info": "LIVE UIT DE STUDIO",
+    "highlight": "UITGELICHT",
+    "highlight_info": "PROGRAMMA’S & MEER"
+  }
+}
